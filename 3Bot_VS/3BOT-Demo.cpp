@@ -192,7 +192,7 @@ static double d,e;
 
 void RobotForcesFunction2(matrix &P, matrix &V, matrix &F)
 {
-
+	//cdasdas
 	//matrix JT = ROBOT_JT[RobotID];
 	//matrix ap(3, 1);
 	//matrix aa(3, 1);
